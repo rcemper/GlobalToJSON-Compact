@@ -8,7 +8,7 @@
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.GblToJSON.PKG"/>
       <Resource Name="dc.MultiD.GBL"/>
-      <Description>create a JSON Object from Global and with Importer - Compact/Description>
+      <Description>create a JSON Object from Global and with Importer - Compact</Description>
       	 <Author>
     			<Person>Robert C. Cemper</Person>
 		    	<CopyrightDate>2022</CopyrightDate>
