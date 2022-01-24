@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="gbl-to-json-a.ZPM">
+  <Document name="gbl-to-json-c.ZPM">
     <Module>
-      <Name>gbl-to-json-a</Name>
+      <Name>gbl-to-json-c</Name>
       <Version>0.0.1</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.GblToJSON.PKG"/>
       <Resource Name="dc.MultiD.GBL"/>
-      <Description>create a JSON Object from Global and with Importer - in all details</Description>
+      <Description>create a JSON Object from Global and with Importer - Compact/Description>
       	 <Author>
     			<Person>Robert C. Cemper</Person>
 		    	<CopyrightDate>2022</CopyrightDate>
