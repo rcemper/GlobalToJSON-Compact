@@ -1,17 +1,16 @@
-# GlobalToJSON-Academic
+# GlobalToJSON-Compact
 This package offers a utility to load a Global into JSON object and to create a    
-Global from this type of JSON object. ***Academic*** refers to the structure created.    
-Each logical node of the Global is presented separately with all its descendants    
-even if they don't contain any stored data.   
+Global from this type of JSON object. ***Compact*** refers to the structure created.    
+Globals nodes are included with data for a fast data load.   
 
-![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/Globals.png)    
+![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/Globals.png)    
 
 ## Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
 ## Installation 
 Clone/git pull the repo into any local directory
 ```
-git clone https://github.com/rcemper/Dataset-simple-M-N.git
+git clone https://github.com/rcemper/GlobalToJSON-Compact.git 
 ```
 Run the IRIS container with your project: 
 ```
@@ -19,7 +18,7 @@ docker-compose up -d --build
 ```
 ## How to Test it
 This is the pre-loaded Global **^dc.MultiD** for testing.
-![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/Global.JPG)
+![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/Global.JPG)
 
 Open IRIS terminal
 ```
@@ -84,6 +83,6 @@ USER>
 ```
 **q.a.d.**   
 ### Code Quality 
-![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Academic/master/CodeQuality.JPG) 
+![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.JPG) 
 
-[Article in DC](https://community.intersystems.com/post/globaltojson-academic)
+[Article in DC](https://community.intersystems.com/post/globaltojson-compact)
