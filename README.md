@@ -103,6 +103,6 @@ USER>
 ```
 **q.a.d.**   
 ### Code Quality 
-![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.JPG) 
+![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.JPG)
 
 [Article in DC](https://community.intersystems.com/post/globaltojson-compact)
