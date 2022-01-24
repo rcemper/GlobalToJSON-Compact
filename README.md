@@ -1,7 +1,8 @@
 # GlobalToJSON-Compact
 This package offers a utility to load a Global into JSON object and to create a    
 Global from this type of JSON object. ***Compact*** refers to the structure created.    
-Globals nodes are included with data for a fast data load.   
+Globals nodes are included with data for a fast data load.
+But also the related code is quite compact.    
 
 ![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/Globals.png)    
 
@@ -67,7 +68,7 @@ USER>write $$Do^ZPretty(json)
 ```
 
 Now we want to verify the load function.  
-First me make a copy of our source and then delete the source   
+First we make a copy of our source and then delete the source   
 After the load operation the source Global is completely restored    
 ```
 USER>merge ^keep=^dc.MultiD  
