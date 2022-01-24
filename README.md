@@ -27,7 +27,7 @@ USER>
 
 USER>; generate JSON object from Global
 
-USER>set json=##class(dc.GblToJSON.A).do("^dc.MultiD")
+USER>set json=##class(dc.GblToJSON.C).do("^dc.MultiD")
 
 USER>zw json
 json={"node":"^dc.MultiD","val":"5","sub":[{"node":"1","val":"$lb(\"Braam,Ted Q.
