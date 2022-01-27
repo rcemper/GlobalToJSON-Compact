@@ -3,18 +3,18 @@
   <Document name="gbl-to-json-c.ZPM">
     <Module>
       <Name>gbl-to-json-c</Name>
-      <Version>0.0.1</Version>
+      <Version>0.0.2</Version>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-      <Resource Name="dc.GblToJSON.PKG"/>
-      <Resource Name="dc.MultiD.GBL"/>
+      <Resource Name="dc.GblToJSON.C.CLS"/>
+      <Resource Name="dc.MultiDc.GBL"/>
       <Description>create a JSON Object from Global and with Importer - Compact</Description>
       	 <Author>
     			<Person>Robert C. Cemper</Person>
 		    	<CopyrightDate>2022</CopyrightDate>
 			    <License>MIT</License>
 			    <Notes>
-				      repository: https://github.com/rcemper/GlobalToJSON-Academic
+				      repository: https://github.com/rcemper/GlobalToJSON-Compact
 			    </Notes>
 		    </Author>
     </Module>
