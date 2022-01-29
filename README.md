@@ -105,4 +105,6 @@ USER>
 ### Code Quality 
 ![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.JPG)
 
+[Video](https://youtu.be/8Fz2537FHzc)
+
 [Article in DC](https://community.intersystems.com/post/globaltojson-compact)
