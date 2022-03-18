@@ -105,6 +105,9 @@ USER>
 ### Code Quality 
 ![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.JPG)
 
-[Video](https://youtu.be/8Fz2537FHzc)
+[Video](https://youtu.be/8Fz2537FHzc)    
+
+[Online Demo Terminal](https://gbl-to-json-c.demo.community.intersystems.com/terminal/)      
+[Online Demo SMP](https://gbl-to-json-c.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)   
 
 [Article in DC](https://community.intersystems.com/post/globaltojson-compact)
