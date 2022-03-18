@@ -18,7 +18,7 @@ Run the IRIS container with your project:
 docker-compose up -d --build
 ```
 ## How to Test it
-This is the pre-loaded Global **^dc.MultiD** for testing.
+This is the pre-loaded Global **^dc.MultiD** for testing.    
 ![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/Global.JPG)
 
 Open IRIS terminal 
