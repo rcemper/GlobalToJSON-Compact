@@ -8,9 +8,9 @@ on:
 
 env:
   # Change this section according to your needs
-  IMAGE_NAME:   gbl-to-json-compact
-  SERVICE:      ggbl-to-json-compact
-  DOMAIN_NAME:  gbl-to-json-compact.demo.community.intersystems.com
+  IMAGE_NAME:   gbl-to-json-c
+  SERVICE:      gbl-to-json-c
+  DOMAIN_NAME:  gbl-to-json-c.demo.community.intersystems.com
 # Leave this section untouched
   PROJECT_ID:   iris-community-demos
   CLUSTER_NAME: demo
