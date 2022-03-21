@@ -101,9 +101,9 @@ USER>zw ^dc.MultiD
 
 USER>
 ```
-### Version 0.1.0 ###
-The new version takes care of large Globals that my break your available memory.  
-So the JSOM Object is exported to a file.  
+### New Version 0.1.0 ###
+The new version takes care of large Globals that may break your available memory.  
+So the JSON Object is exported to a file.  
 ```
 USER>write ##class(dc.GblToJSON.CX).export("^dc.MultiD")
 File gbl.json created
