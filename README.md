@@ -101,7 +101,21 @@ USER>zw ^dc.MultiD
 
 USER>
 ```
+### Version 0.1.0 ###
+The new version takes care of large Globals that my break your available memory.  
+So the JSOM Object is exported to a file.  
+```
+USER>write ##class(dc.GblToJSON.CX).export("^dc.MultiD")
+File gbl.json created
+```
+And the related loader creates the Global 
+```
+USER>write ##class(dc.GblToJSON.CX).import()
+Global ^dc.MultiD loaded
+```
+
 **q.a.d.**   
+
 ### Code Quality 
 ![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.JPG)
 
