@@ -101,7 +101,7 @@ USER>zw ^dc.MultiD
 
 USER>
 ```
-### New Version 0.1.2 ###
+### New Version 0.1.2 ### 
 The new version takes care of large Globals that may break your available memory.  
 So the JSON Object is exported to a file.  
 ```
