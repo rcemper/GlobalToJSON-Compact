@@ -51,4 +51,18 @@ ClassMethod import(file = "gbl.json") As %String
 	quit "Global "_$qs($zr,0)_" loaded"
 }
 
+ClassMethod show(file = "gbl.json") as %String
+{
+	open file:("R"):1
+	else  quit "File not found"
+	set $ZT="end"
+	for { 
+		use file read line
+		use 0 write line,!
+		if line="]}" quit
+		}
+end
+	close file	
+	quit "***** "_file_" *****"
+}
 }
