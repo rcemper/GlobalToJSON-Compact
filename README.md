@@ -113,7 +113,31 @@ And the related loader creates the Global
 USER>write ##class(dc.GblToJSON.CX).import()
 Global ^dc.MultiD loaded
 ```
-
+and to see the generated file there is a show() method   
+```
+USER>write ##class(dc.GblToJSON.CX).show()
+{"gbl":[
+"^dc.MultiD=5",
+"^dc.MultiD(1)=$lb(\"Braam,Ted Q.\",51353)",
+"^dc.MultiD(1,\"mJSON\")=\"{}\"",
+"^dc.MultiD(2)=$lb(\"Klingman,Uma C.\",62459)",
+"^dc.MultiD(2,2,\"Multi\",\"a\")=1",
+"^dc.MultiD(2,2,\"Multi\",\"rob\",1)=\"rcc\"",
+"^dc.MultiD(2,2,\"Multi\",\"rob\",2)=2222",
+"^dc.MultiD(2,\"Multi\",\"a\")=1",
+"^dc.MultiD(2,\"Multi\",\"rob\",1)=\"rcc\"",
+"^dc.MultiD(2,\"Multi\",\"rob\",2)=2222",
+"^dc.MultiD(2,\"mJSON\")=\"{\"\"A\"\":\"\"ahahah\"\",\"\"Rob\"\":\"\"VIP\"\",\"\"Rob2\"\":1111,\"\"Rob3\"\":true}\"",
+"^dc.MultiD(3)=$lb(\"Goldman,Kenny H.\",45831)",
+"^dc.MultiD(3,\"mJSON\")=\"{}\"",
+"^dc.MultiD(4)=$lb(\"\",\"\")",
+"^dc.MultiD(4,\"mJSON\")=\"{\"\"rcc\"\":122}\"",
+"^dc.MultiD(5)=$lb(\"\",\"\")",
+"^dc.MultiD(5,\"mJSON\")=\"{}\""
+]}
+***** gbl.json *****
+USER>
+```
 **q.a.d.**   
 
 ### Code Quality  
