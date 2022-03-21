@@ -117,7 +117,7 @@ Global ^dc.MultiD loaded
 **q.a.d.**   
 
 ### Code Quality  
-![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.jpg)
+![CodeQuality](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/CodeQuality.JPG)
 
 [Video](https://youtu.be/8Fz2537FHzc)    
 
