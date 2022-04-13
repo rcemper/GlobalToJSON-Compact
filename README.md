@@ -4,7 +4,7 @@ Global from this type of JSON object. ***Compact*** refers to the structure crea
 Globals nodes are included with data for a fast data load.
 But also the related code is quite compact.    
 
-![](https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/Globals.png)    
+<img width="80%" src="https://raw.githubusercontent.com/rcemper/GlobalToJSON-Compact/master/Globals.png">    
 
 ## Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
@@ -138,13 +138,14 @@ USER>write ##class(dc.GblToJSON.CX).show()
 ***** gbl.json *****
 USER>
 ```
-**q.a.d.**   
+**q.a.d.**  
+
+[Article in DC](https://community.intersystems.com/post/globaltojson-compact)     
 
 [Video](https://youtu.be/8Fz2537FHzc)    
 
 [Online Demo Terminal](https://gbl-to-json-c.demo.community.intersystems.com/terminal/)      
 [Online Demo SMP](https://gbl-to-json-c.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)   
 
-[Article in DC](https://community.intersystems.com/post/globaltojson-compact)     
-    
-**Code Quality** in SCREENSHOTS  
+**Code Quality**   
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1613/screenshots/funx8kliymhjee7ncjjg77c1os.jpg">
