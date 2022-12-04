@@ -144,8 +144,3 @@ USER>
 
 [Video](https://youtu.be/8Fz2537FHzc)    
 
-[Online Demo Terminal](https://gbl-to-json-c.demo.community.intersystems.com/terminal/)      
-[Online Demo SMP](https://gbl-to-json-c.demo.community.intersystems.com/csp/sys/%25CSP.Portal.Home.zen)   
-
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1613/screenshots/funx8kliymhjee7ncjjg77c1os.jpg">
